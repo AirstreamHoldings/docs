@@ -19,11 +19,11 @@ For some Linux distributions (Debian/Ubuntu and RedHat/CentOS), the latest node 
 
 ### Updating node on Windows
 
-Install the latest msi from <https://nodejs.org/download>
+Install the latest msi from <https://nodejs.org/en/download>
 
 ### Updating node on OSX
 
-Install the latest package from <https://nodejs.org/download>
+Install the latest package from <https://nodejs.org/en/download>
 
 or if you are using [homebrew](http://brew.sh/)
 
