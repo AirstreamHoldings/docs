@@ -1,6 +1,6 @@
 # We're moving!
 
-Hi! This repository is no longer being used and will be made private on Friday, 7/13. Please leave bug reports, feedback, and ideas in [npm.community](https://npm.community):
+Hi! This repository is no longer being used and will be made private on Monday, 7/16. Please leave bug reports, feedback, and ideas in [npm.community](https://npm.community):
 
 * Reports of bugs, inaccurate content, or typos should go in the [bugs category](https://npm.community/c/bugs).
 
