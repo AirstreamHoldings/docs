@@ -1,4 +1,12 @@
-# [docs.npmjs.com](https://docs.npmjs.com)
+# We've moved!
+
+Hi! This repository is no longer being used and will be made private on Friday, 7/12. Please leave bug reports, feedback, and ideas in [npm.community](https://npm.community):
+
+* Reports of bugs, inaccurate content, or typos should go in the [bugs category](https://npm.community/c/bugs).
+
+* Informal feature requests and ideas get discussed in the [ideas category](https://npm.community/c/ideas).
+
+# Legacy steps for [docs.npmjs.com](https://docs.npmjs.com)
 
 Learn you some npm for great good.
 
