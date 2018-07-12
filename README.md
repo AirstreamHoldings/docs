@@ -1,4 +1,4 @@
-# We've moved!
+# We're moving!
 
 Hi! This repository is no longer being used and will be made private on Friday, 7/12. Please leave bug reports, feedback, and ideas in [npm.community](https://npm.community):
 
