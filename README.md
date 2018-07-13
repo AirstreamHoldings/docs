@@ -1,10 +1,6 @@
 # We're moving!
 
-Hi! This repository is no longer being used and will be made private on Monday, 7/16. Please leave bug reports, feedback, and ideas in [npm.community](https://npm.community):
-
-* Reports of bugs, inaccurate content, or typos should go in the [bugs category](https://npm.community/c/bugs).
-
-* Informal feature requests and ideas get discussed in the [ideas category](https://npm.community/c/ideas).
+Hi! This repository is no longer being used and will be made private on Monday, 7/16. Please leave bug reports, feedback, and ideas in https://npm.community/c/support/docs-needed
 
 # Legacy steps for [docs.npmjs.com](https://docs.npmjs.com)
 
