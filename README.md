@@ -1,6 +1,6 @@
 # We're moving!
 
-Hi! This repository is no longer being used and will be made private on Monday, 7/16. Please leave bug reports, feedback, and ideas in https://npm.community/c/support/docs-needed
+Hi! This repository is no longer being used and will be made private on Monday, 7/16. Please leave bug reports, feedback, and ideas in https://npm.community/c/support/docs-needed.
 
 # Legacy steps for [docs.npmjs.com](https://docs.npmjs.com)
 
